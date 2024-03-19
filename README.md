@@ -69,39 +69,54 @@ This involved exploring the sales data to answer some key questions, such as:
 The insights you provided seem to answer several key questions about the travel details dataset:
 
 1. What destinations and geographic regions are covered in the dataset?
-   - The insights mention the dataset covers destinations across the world including major cities in Europe, Asia, North America, South America, Africa, and Oceania.
+  
 2. What is the range of trip durations?
-   - It states the most common duration is 7 days (54 trips), followed by 8 days (18 trips). The shortest trip was 5 days and the longest was 14 days.
+   
 3. What types of accommodation were used and which was most popular?
-   - Hotels were the most popular (57 trips), followed by Airbnb/vacation rentals (29 trips), resorts (15 trips), and hostels (14 trips). Hotels had the highest average cost.
+  
 4. What modes of transportation were used?
-   - Flights were most common (106 trips), followed by trains (28 trips), car rentals (14 trips), and buses (3 trips).
+  
 5. Which were the top destinations/countries visited?
-   - USA, France, and Japan were the top 3 most visited countries.
+   
 6. What are the demographics of the travelers (nationality, age, gender)?
-   - The travelers came from diverse nationalities like American, British, Korean, etc. Ages ranged from 20s to 60s, with most in 20s/30s. Gender split was fairly even.
+   
 7. What was the range of total trip costs?
-   - Average total costs ranged from $1000-3000 USD, with higher costs for longer trips, farther destinations, and luxury accommodations. Flights were a major expense.
+   
 8. What additional data may be useful?
-   - It mentions specific travel dates, companions, activities could provide further insights with a larger sample size.
-
 
 
 ### Result
- *Check Insights and analysis and Data Visualization slide on presentation
-![Viz](
+1. The insights mention the dataset covers destinations across the world including major cities in Europe, Asia, North America, South America, Africa, and Oceania.
+2. It states the most common duration is 7 days (54 trips), followed by 8 days (18 trips). The shortest trip was 5 days and the longest was 14 days.
+3. Hotels were the most popular (57 trips), followed by Airbnb/vacation rentals (29 trips), resorts (15 trips), and hostels (14 trips). Hotels had the highest average cost.
+4. Flights were most common (106 trips), followed by trains (28 trips), car rentals (14 trips), and buses (3 trips).
+5. USA, France, and Japan were the top 3 most visited countries.
+6. The travelers came from diverse nationalities like American, British, Korean, etc. Ages ranged from 20s to 60s, with most in 20s/30s. Gender split was fairly even.
+7. Average total costs ranged from $1000-3000 USD, with higher costs for longer trips, farther destinations, and luxury accommodations. Flights were a major expense.
+8.It mentions specific travel dates, companions, activities could provide further insights with a larger sample size.
+
+*Check Insights and analysis and Data Visualization slide on presentation
 
 ### Recommendations
 
-▪ 
-▪ 
-▪ 
-▪ 
+▪ Accommodation preferences:Travel companies and accommodation providers should focus on offering competitive rates and packages for these accommodation types, as well as ensuring high standards of service and amenities.
+
+▪ Destination marketing: The top destinations identified, such as the USA, France, Japan, Thailand, and Indonesia, should be prioritized for targeted marketing campaigns and promotions by tourism boards and travel agencies.
+  
+▪ Transportation options: As flights were the most common mode of transportation, especially for international travel, airlines and travel agencies should consider offering attractive flight packages and deals for popular routes. For domestic or regional travel, train and car rental options should also be optimized.
+   
+▪ Demographic targeting: With the majority of travelers being in their 20s and 30s, travel companies could tailor their offerings and marketing strategies to cater to the preferences and budget constraints of this age group.
+▪ Data collection: Collecting additional data points such as specific travel dates, companions, activities, and travel motivations could provide more insights into travel patterns and preferences, enabling better-targeted services and promotions.
+
+
 ### Limitations
 
-▪ 
-▪ 
-▪ 
+▪ Limited sample size: While the dataset covers a diverse range of destinations and traveler demographics, A larger sample size would increase the reliability and generalizability of the insights derived from the analysis.
+
+▪ Incomplete data points: The dataset lacks certain potentially valuable data points, such as specific travel dates, companions, activities, and travel motivations. These additional details could provide deeper insights into travel behaviors, preferences, and decision-making processes, enabling more targeted recommendations and services.
+
+▪ Lack of temporal information: The dataset appears to contain trips spanning from 2021 to 2025, but there is no clear indication of when each trip took place. This could be crucial for identifying seasonal patterns, trends over time, and the impact of external factors (e.g., holidays, events, or pandemics) on travel behavior.
+
 
 ### Conclusion
 
