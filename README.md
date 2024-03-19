@@ -96,6 +96,8 @@ The insights you provided seem to answer several key questions about the travel 
 8.It mentions specific travel dates, companions, activities could provide further insights with a larger sample size.
 
 *Check Insights and analysis and Data Visualization slide on presentation
+![TravelTripInsights Analysis pdf](https://github.com/hanifasalihu/Travel-Trip-Analysis/assets/157046638/fd9b84fa-3f2e-45c5-8805-b138bcbd56d4)
+
 
 ### Recommendations
 
